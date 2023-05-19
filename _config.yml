@@ -10,4 +10,4 @@ twitter_username: test
 github_username:  BillyBobTech
 
 # Build settings
-theme: Architect
+theme: jekyll-theme-architect
